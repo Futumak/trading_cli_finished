@@ -1,0 +1,4 @@
+{
+	"fontsize": 16, 
+	"entrywidth": 14
+}
